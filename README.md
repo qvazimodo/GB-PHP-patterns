@@ -1,0 +1,1 @@
+# GB PHP patterns
